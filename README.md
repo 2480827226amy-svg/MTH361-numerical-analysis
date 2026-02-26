@@ -1,0 +1,3 @@
+# Numerical Analysis (MATLAB)
+
+This repository contains MATLAB codes from the course Numerical Analysis, including codes for error calculation, root finding methods, interpolation, ...
